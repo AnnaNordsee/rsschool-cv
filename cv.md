@@ -1,11 +1,12 @@
+![Foto](Hajrow_Anna_ll.jpg)
 1. # Anna Hajrow
-1. ## anna@akkela.net
-1. ## **Моя цель:** научиться программировать и получить интересный проект. С связи с переездом в Германию по семейным обстоятельствам пришлось сменить профессию. До этого работала преподавателем Microsoft Office в Белорусском государственном университете в Минске. Опыт работы - 30 лет. В Германии закончила курсы переподготовки "Проект-менеджер".
-1. ## **Навыки:** профессиональное владение MS Office, начальный уровень MS Project, HTML, CSS.
-1. ## **Примеры кода** (см. ниже)
-1. ## Опытa работы нет.
-1. ## Образование высшее 
-1. ## Английский язык *В1*, немецкий язык *С1*
+1. ## anna@akkela.net; GitHub Nickname: AnnaNordsee
+1. ## **My aim:** to learn how to program and to get an interesting project. Due to moving to Germany for family reasons, I had to change my profession. Before that, she worked as a Microsoft Office teacher at the Belarusian State University in Minsk. Work experience - 30 years. Completed retraining course "Project manager" in Germany.
+1. ## **skills:**professional knowledge of MS Office, beginner level of MS Project, HTML, CSS.
+1. ## **Code examples** (see below)
+1. ## No work experience.
+1. ## Higher education 
+1. ## English *B1*, German *C1*
 1. '''javascript
 <html>
 <head>
