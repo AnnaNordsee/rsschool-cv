@@ -7,7 +7,7 @@
 1. No work experience.
 1. Higher education 
 1. English *B1*, German *C1*
-1. '''javascript
+1. '''
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
