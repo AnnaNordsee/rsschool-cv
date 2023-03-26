@@ -1,4 +1,4 @@
-![Foto](Hajrow_Anna_ll.jpg)
+![Foto](Hajrow_Anna.jpg)
 1. # Anna Hajrow
 1. ## anna@akkela.net; GitHub Nickname: AnnaNordsee
 1. ## **My aim:** to learn how to program and to get an interesting project. Due to moving to Germany for family reasons, I had to change my profession. Before that, she worked as a Microsoft Office teacher at the Belarusian State University in Minsk. Work experience - 30 years. Completed retraining course "Project manager" in Germany.
