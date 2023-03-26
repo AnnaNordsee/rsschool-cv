@@ -1,9 +1,9 @@
 ![Foto](Hajrow_Anna.jpg)
 1. # Anna Hajrow
 1. ## anna@akkela.net; GitHub Nickname: AnnaNordsee
-1. ## **My aim:** to learn how to program and to get an interesting project. Due to moving to Germany for family reasons, I had to change my profession. Before that, she worked as a Microsoft Office teacher at the Belarusian State University in Minsk. Work experience - 30 years. Completed retraining course "Project manager" in Germany.
-1. ## **skills:**professional knowledge of MS Office, beginner level of MS Project, HTML, CSS.
-1. ## **Code examples** (see below)
+1. ## __My aim:__ to learn how to program and to get an interesting project. Due to moving to Germany for family reasons, I had to change my profession. Before that, she worked as a Microsoft Office teacher at the Belarusian State University in Minsk. Work experience - 30 years. Completed retraining course "Project manager" in Germany.
+1. ## __skills:__ professional knowledge of MS Office, beginner level of MS Project, HTML, CSS.
+1. ## __Code examples__ (see below)
 1. ## No work experience.
 1. ## Higher education 
 1. ## English *B1*, German *C1*
